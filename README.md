@@ -3,3 +3,8 @@
 - https://github.com/SWivid/F5-TTS
 - https://github.com/rish9600/viralaiugc
 - https://github.com/vishnuhimself/UGCVidGen
+- https://docs.google.com/document/d/e/2PACX-1vTFgkhHVLh2MVU05EIdV1feAFZXljeFbRZEvz24Sl3oSUR-m1VwMQlmlAV_n8B2WZQReGcKEwoFjput/pub
+- https://www.figma.com/proto/Iga8vqeVvrENmuiAYPzxSE/21-Day-Upwork-Challenge?page-id=1%3A211&type=design&node-id=569-10713&viewport=1715%2C-54%2C0.05&t=7eoL2VTKnLRqYpW3-1&scaling=contain&starting-point-node-id=569%3A10713&utm_source=ActiveCampaign&utm_medium=email&utm_content=Your%2021%20Day%20Upwork%20Challenge%20%F0%9F%9F%A2&utm_campaign=Email%201%20-%20Welcome
+- https://www.figma.com/proto/yI03rVKGT3HpG16Kkjn5TN/Upwork-OS?page-id=1%3A2&type=design&node-id=49-5184&viewport=-2806%2C6977%2C0.2&t=esxFAWUxegpx1b6o-1&scaling=scale-down&starting-point-node-id=49%3A4710
+- https://puzzle-climb-4bf.notion.site/Hero-section-guide-lovable-midjourney-runway-21e9c1f959f080eda779c6fd3b0279f9
+- https://cursor-command-guide.lovable.app/
